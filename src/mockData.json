@@ -10,7 +10,7 @@
     {
       "id": 2,
       "manager": "Петров Петр",
-      "duration": 90,
+      "duration": 0,
       "success": false,
       "type": "outgoing",
       "date": "2023-10-02T11:30:00.000Z"
@@ -34,7 +34,7 @@
     {
       "id": 5,
       "manager": "Петров Петр",
-      "duration": 30,
+      "duration": 0,
       "success": false,
       "type": "incoming",
       "date": "2023-10-04T16:20:00.000Z"
@@ -90,7 +90,7 @@
     {
       "id": 12,
       "manager": "Кузнецов Николай",
-      "duration": 120,
+      "duration": 0,
       "success": false,
       "type": "outgoing",
       "date": "2023-10-11T11:00:00.000Z"
@@ -106,7 +106,7 @@
     {
       "id": 14,
       "manager": "Петров Петр",
-      "duration": 45,
+      "duration": 0,
       "success": false,
       "type": "outgoing",
       "date": "2023-10-13T09:00:00.000Z"
